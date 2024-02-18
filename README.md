@@ -1,13 +1,7 @@
 # 💫About Me :
 👋 Hi, I’m @h4n9z03.
 
-🏠 I’m from HaNoi.
-
-👀 I’m interested in listening music.
-
-🌱 I’m currently learning Network administrator and Cyber Security.
-
-🐈 I love cat 
+🏠 I’m from HaNoi. 
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamhungggg) 
